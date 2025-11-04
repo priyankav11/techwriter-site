@@ -42,7 +42,7 @@ I follow the **Documentation Development Life Cycle (DDLC)** to ensure every doc
 
 ***Why This Matters***
 
-This process ensures:
-- Every document aligns with product goals and user needs.
-- Reviews and updates are efficient and traceable.
-- The tone, style, and presentation stay professional across the portfolio.
+This process ensures:  
+- Every document aligns with product goals and user needs.  
+- Reviews and updates are efficient and traceable.  
+- The tone, style, and presentation stay professional across the portfolio.  
