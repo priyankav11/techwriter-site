@@ -8,9 +8,12 @@ theme:
 
 nav:
   - Overview: overview.md
+  - My Documentation Workflow: workflow.md
   - How To Guide: how_to_guide.md
   - New Feature Alert: new_feature_alert.md
   - Thought Blog: thought_blog.md
+  
+
 plugins:
   - search
   - awesome-pages

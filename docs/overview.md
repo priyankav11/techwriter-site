@@ -1,17 +1,17 @@
-# 🌟 Overview
+# Overview
 
 Welcome to Priyanka’s Technical Writing Portfolio — a collection of documentation projects, user guides, and articles that demonstrate my ability to communicate complex technical topics with clarity, accuracy and creativity.  
 
 I’m passionate about making technology accessible — turning intricate setups, workflows and software tools into content that helps users learn, build and troubleshoot with confidence.
 
-## 💼 What You’ll Find Here
+## What You’ll Find Here
 
 This portfolio highlights a variety of technical writing samples that reflect both structure and storytelling:  
 
-- 🧭 User Guides – Clear, step-by-step instructions for real-world software and infrastructure tasks.
-- 🚀 Feature Announcements – Concise release updates written to inform and engage.
-- 💡 Technical Articles & Thought Blogs – Explorations of tools, automation and documentation best practices.
-- 🗂️ System & Process Documentation – Structured explanations of deployments, pipelines and configurations.  
+-  User Guides – Clear, step-by-step instructions for real-world software and infrastructure tasks.
+-  Feature Announcements – Concise release updates written to inform and engage.
+-  Technical Articles & Thought Blogs – Explorations of tools, automation and documentation best practices.
+-  System & Process Documentation – Structured explanations of deployments, pipelines and configurations.  
 
 Each document focuses on:
 
@@ -23,7 +23,7 @@ Each document focuses on:
 
 4. Consistency – A uniform structure that makes navigation effortless.  
 
-## 🧰 Tools & Skills
+## Tools & Skills
 
 - Markup Languages: Markdown, HTML, XML (DITA)
 
@@ -37,14 +37,14 @@ Each document focuses on:
 
 - DevOps Knowledge: Jenkins, Docker, Terraform, AWS (hands-on documentation experience)
 
-## 🌱 About This Portfolio
+## About This Portfolio
 
 This site is built using MkDocs with the Material theme, written entirely in Markdown and hosted on GitHub Pages.  
 It’s a living showcase — I continuously add new samples as I explore advanced documentation systems like DITA, FrameMaker and Sphinx.
 
 My goal as a technical writer is to bridge the gap between technology and understanding, creating documentation that’s not only accurate but enjoyable to read.
 
-## 🔗 Explore
+## Explore
 
 Use the sidebar or tabs to browse:  
 
@@ -54,4 +54,4 @@ Use the sidebar or tabs to browse:
 
 - Technical Blogs  
 
-**Thank you for visiting — and welcome to my world of structured, meaningful, and user-centered documentation. ✨**
+**Thank you for visiting — and welcome to my world of structured, meaningful, and user-centered documentation.**
